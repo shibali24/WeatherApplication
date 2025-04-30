@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather Report</string>
+    <string name="welcome_message">~Shibali’s Weather Report~</string>
+    <string name="add_city_title">Add City</string>
+    <string name="add_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="loading">Loading...</string>
+    <string name="back_text">← Back</string>
+    <string name="weather_icon_desc">Weather Icon</string>
+    <string name="temp_label">Temperature: %1$s °C</string>
+    <string name="humidity_label">Humidity: %1$s%%</string>
+    <string name="desc_label">Description: %1$s</string>
+    <string name="error_title">Error</string>
+    <string name="error_message">City not found. Please try again!</string>
+    <string name="delete_city_desc">Delete City</string>
+
+</resources>
