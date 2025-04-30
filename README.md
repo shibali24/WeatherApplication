@@ -1,7 +1,7 @@
-🌤️ WeatherApplication
+### 🌤️ WeatherApplication
 An Android weather app built with Kotlin that allows users to view detailed weather forecasts by city. This project demonstrates modern Android development practices including Jetpack Compose, ViewModel, Retrofit, and Hilt for dependency injection.
 
-✨ Features
+### ✨ Features
 🌍 Search and display weather details for any city
 
 📊 Real-time weather data via OpenWeatherMap API
@@ -13,3 +13,7 @@ An Android weather app built with Kotlin that allows users to view detailed weat
 ☁️ Organized with MVVM architecture
 
 ⚙️ DI using Hilt
+
+### 📽 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/dzQhpxyBkfo/0.jpg)](https://www.youtube.com/watch?v=dzQhpxyBkfo)
